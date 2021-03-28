@@ -1,4 +1,4 @@
-![screenshot of page one](https://user-images.githubusercontent.com/78609468/111079959-b59e9680-84d2-11eb-939e-c4f9f02d7bc1.png)
+
 readme.md
 Javascript Assignment Unit 3 - Generating a password
 
