@@ -1,5 +1,7 @@
 
 readme.md
+Updated to make html functional and accurate.
+
 Javascript Assignment Unit 3 - Generating a password
 
 To obtain a password went through the following procedures and outline of thge description.
